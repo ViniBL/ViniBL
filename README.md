@@ -1,9 +1,10 @@
-### Olá, me chamo Vinícius Borges 👋
-
+<div align="center">
+  <h1>Olá, me chamo Vinícius Borges 👋</h1>
+</div>
 <div align="center">
   <a href="https://github.com/ViniBL">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniBL&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniBL&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ViniBL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniBL&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,7 +20,7 @@
 
   
   
-  <img align="right" alt="Vini-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/325734999137583106/967856843642781797/download20220400152944.png?width=567&height=567">
+  <img align="right" class="imagem" alt="Vini-pic" height="150" style="border-radius:50px;!important" src="https://media.discordapp.net/attachments/325734999137583106/967856843642781797/download20220400152944.png?width=567&height=567">
 </div>
   
   ##
