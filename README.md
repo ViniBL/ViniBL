@@ -20,7 +20,7 @@
 
   
   
-  <img align="right" class="imagem" alt="Vini-pic" height="150" style="border-radius:50px;!important" src="https://media.discordapp.net/attachments/325734999137583106/967856843642781797/download20220400152944.png?width=567&height=567">
+  <img align="right" class="imagem" alt="Vini-pic" height="150" style="border-radius:50px;!important" src="https://media.discordapp.net/attachments/325734999137583106/967869768101158922/download20220400152944-modified.png?width=567&height=567">
 </div>
   
   ##
