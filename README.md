@@ -1,6 +1,8 @@
 <div align="center">
   <h1>Olá, me chamo Vinícius Borges 👋</h1>
 </div>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=ViniBL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniBL&layout=compact&langs_count=7&theme=dracula"/>
 <div align="center">
   <a href="https://github.com/ViniBL">
 
