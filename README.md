@@ -9,7 +9,7 @@ Apaixonado por tecnologia e pela área de dados!
 
 Minha trajetória começa aos 14 anos, quando entrei no curso técnico de informática, foi lá onde descobri o que gostaria para minha vida, fiz todas as disciplinas com gosto, e desde então me apaixonei profundamente pelo que faço. 
 
-Como uma pessoa entusiasta por tecnologia, tenho projeto em diversas áreas (alguns deles você poderá encontrar no meu github), Machine Learning, Análise de dados, Banco de Dados, jogos, web scrapping, IA, banco de dados, desenvolvimento web... Enfim, já deu para entender que eu tenho gosto pela coisa :)
+Como uma pessoa entusiasta por tecnologia, tenho projeto em diversas áreas (alguns deles você poderá encontrar no meu github), Machine Learning, Análise de dados, Banco de Dados, jogos, web scrapping, IA, banco de dados, Dashboards, desenvolvimento web... Enfim, já deu para entender que eu tenho gosto pela coisa :)
 
 Quer entrar em contato comigo? Meu email é: viniciusborgeslima06@gmail.com, te espero lá! 😄 
 
